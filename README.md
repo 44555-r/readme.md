@@ -1,5 +1,4 @@
 # readme.md
-# A first-level heading
-_IT 1025_
-**Bold**
-I am making a <sup>readme</sup> file
+# IT 1025
+_Professor Kathleen Tamerlano_
+***14 weeks***
