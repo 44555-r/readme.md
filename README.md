@@ -7,3 +7,4 @@
 ## OOP Programming Task 
 respitory contains files demonstrating OOP concepets
 - 'Flower.txt': Code demonstrating flower class with comments and additional flower.
+- 'PythonOOP.png': Screenshot of code.
