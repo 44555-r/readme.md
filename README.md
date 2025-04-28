@@ -21,3 +21,10 @@ This project includes an SQL query that retrieves records from the **OrderDetail
 SELECT * FROM OrderDetails
 WHERE Quantity > 20
 ORDER BY ProductID;
+
+# My Web Page
+## Description
+This project is a simple HTML web page demonstrating basic HTML elements, including headings, paragraphs, links, and images.
+
+## File Information
+![MyHTML](https://github.com/user-attachments/assets/17fff2ef-356c-43c9-96c1-d5ca1f78a625)
